@@ -1,6 +1,6 @@
 Pascal Object Envrionment (POE) is a code library whose objective is to provide all the necessary elements to enable portable code on Pascal Objet environments and compilers (Delphi, Lazarus, Typhon).
 
-Using
+Usage
 
 To use the POE library, simply include the poe.inc file the project source file (*.ctpr, *.dpr, *.ppr*). The instruction is as follows:
 
