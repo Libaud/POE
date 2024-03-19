@@ -1,14 +1,15 @@
 {========================================================================================
   Include : poe_compilers.inc
-  Description : Pascal Object Environment (POE) Library is inspireed from somes inc
-                configuration files of many libraries likes JediVCL for exemple.
-                It purpose a good way for prepared conditional compilaton on Delphi,
-                Lazarus or Typhon. And a solution for portable code too.
-  Author : Frédéric Libaud
+  Description : Pascal Object Environment (POE) Library is inspired by include
+                configuration files that many libraries, such as JediVCL, use to compile
+                correctly on multiple versions of compilers. 
+                Its purpose is a to help prepare conditional compilaton on Delphi,
+                Lazarus or Typhon and as a solution for portable code as well. 
+  Author : FrÃ©dÃ©ric Libaud
   **************************************************************************************
   History
   --------------------------------------------------------------------------------------
-  2024 03 03 - Création
+  2024 03 03 - CrÃ©ation
  ========================================================================================}
 
 {$ifndef fpc}
